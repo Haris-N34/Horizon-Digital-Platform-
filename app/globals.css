@@ -15,6 +15,9 @@
   --color-text-primary: #0A0703;   /* deep near-black */
   --color-text-secondary: #5C4A3A; /* warm rich gray */
   --color-border: #D9CBB0;         /* visible warm border */
+  --font-dm-sans: "Avenir Next", "Segoe UI", system-ui, sans-serif;
+  --font-dm-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  --font-jetbrains: ui-monospace, "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
 }
 
 .dark {

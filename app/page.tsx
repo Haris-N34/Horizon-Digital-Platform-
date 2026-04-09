@@ -43,7 +43,7 @@ export default function LandingPage() {
             Unified Operations Dashboard
           </div>
           <h1 className="font-serif text-6xl md:text-7xl text-text-primary leading-[1.05] mb-6 max-w-4xl">
-            From Land to Leverage
+            Horizon Digital Platform
           </h1>
           <p className="text-text-secondary text-lg max-w-xl mx-auto">
             Choose your operations module to begin. Real-time intelligence on land,
